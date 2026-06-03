@@ -39,8 +39,8 @@ Berikut adalah susunan direktori dan berkas di dalam repositori ini:
   * `Laporan Progress Projek Pembelajaran Mesin Kel 5.pdf` : Laporan yang menjelaskan kemajuan pengerjaan proyek sejauh ini.
   * `Progress Projek Pembelajaran Mesin Kel 5.ipynb` : Visualisasi mentah, eksplorasi data , serta *source code* tahapan pra-proses dan uji coba pemodelan.
 * **`Laporan Akhir/`**
-  * `Laporan Akhir Projek Pembelajaran Mesin Kel 5.pdf` : Laporan yang menjelaskan kemajuan pengerjaan proyek sejauh ini.
-  * `Projek Pembelajaran Mesin Final Kel 5.ipynb` : Visualisasi mentah, eksplorasi data , serta *source code* tahapan pra-proses dan uji coba pemodelan.
+  * `Laporan Akhir Projek Pembelajaran Mesin Kel 5.pdf` : Laporan akhir proyek yang memuat latar belakang, metodologi, proses pengolahan data, implementasi model, hasil evaluasi, analisis performa, dan kesimpulan penelitian.
+  * `Projek Pembelajaran Mesin Final Kel 5.ipynb` : Notebook final yang berisi visualisasi data, proses preprocessing, augmentasi citra, ekstraksi fitur menggunakan MobileNetV3, pelatihan model Random Forest, evaluasi performa, serta analisis hasil klasifikasi.
 
 ## Metode
 1. Exploratory Data Analysis (EDA) untuk melihat distribusi kelas, mengidentifikasi class imbalance, menampilkan sampel citra, dan untuk memahami karakteristik dataset.
